@@ -3,5 +3,7 @@ set -euxo pipefail
 
 ln -f -s /lib/firmware/intel/dsp_fw_release.bin.cave /lib/firmware/intel/dsp_fw_release.bin
 ln -f -s /lib/firmware/dfw_sst.bin.cave /lib/firmware/dfw_sst.bin
+ln -f -s /usr/share/alsa/ucm2/sklnau8825max /usr/share/alsa/ucm2/Google-Cave-1.0-Cave
+ln -f -s /usr/share/alsa/ucm2/sklnau8825max /usr/share/alsa/ucm2/Google-Cave-1.0
 
 exit 0
