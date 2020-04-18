@@ -1,0 +1,6 @@
+cave-audio-support (1.0.0) focal; urgency=medium
+
+  * Initial cave-audio-support package
+    - Based on skylake-audio-support from galliumos and updated for focal
+
+ -- Jonathan Hood <jhood06@gmail.com>  Fri, 17 Apr 2020 19:18:00 +0000
