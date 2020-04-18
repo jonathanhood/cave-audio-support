@@ -1,0 +1,7 @@
+#!/bin/bash
+set -euxo pipefail
+
+ln -f -s /lib/firmware/intel/dsp_fw_release.bin.cave /lib/firmware/intel/dsp_fw_release.bin
+ln -f -s /lib/firmware/dfw_sst.bin.cave /lib/firwmware/dfw_sst.bin
+
+exit 0

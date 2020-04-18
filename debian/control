@@ -1,0 +1,12 @@
+Source: cave-audio-support
+Section: admin
+Priority: required
+Maintainer: Jonathan Hood <jhood06@gmail.com>
+Standards-Version: 3.9.1
+
+Package: cave-audio-support
+Architecture: all
+Priority: required
+Depends: linux-image
+Description: Enable audio support for CAVE chromebooks.
+ This package contains audio configuration files for CAVE chromebooks.
